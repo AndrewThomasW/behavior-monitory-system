@@ -1,13 +1,22 @@
-Behavior Monitoring System using Sentiment Analysis to monitor the behavior of the students in the classroom through submitted reports. The system will analyze the reports and provide a sentiment analysis of the report to the teacher. The teacher can then use this information to monitor the behavior of the students in the classroom.
+# Behavior Monitoring System
+
+## About the Project
+
+The Behavior Monitoring System (BMS) is a sophisticated AI-driven solution designed to analyze and monitor student behavior through sentiment analysis of submitted reports. Leveraging advanced machine learning models, this system provides feedback on the sentiment of each report and assesses the risk of the student's behavior. The BMS aims to support educators and administrators in understanding and addressing student needs more effectively.
+
+### Key Features
+
+- **Sentiment Analysis:** Utilizes cutting-edge AI models to analyze the sentiment of submitted reports, identifying positive, negative, and neutral tones.
+- **Behavior Risk Assessment:** Assesses the risk associated with a student's behavior based on sentiment analysis, offering valuable insights for intervention and support.
+- **Historical Data Simulation:** Simulates feedback for the past 6 months to provide a comprehensive analysis of behavioral trends.
+- **Real-Time Feedback:** Provides immediate and actionable feedback based on the analysis of the input data.
+
+### How It Works
+
+The core functionality of the BMS is powered by an AI model from Google, specifically designed for sentiment analysis and behavior monitoring. The system processes submitted reports, extracts key details, and performs sentiment analysis to determine the overall sentiment and risk level associated with the behavior described in the report.
+
 
 ![alt text](image.png)
-
-## Features
-
-- [x] Report Submission
-- [x] Report Analysis using LLMs
-- [x] Sentiment Analysis Display
-- [x] Chart Display of Sentiment Analysis for 6 months
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -40,8 +49,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Checkout live demo on Vercel [Educational Resource Recommender Chatbot](https://special-education-resource-recommender-chatbot.vercel.app) 
