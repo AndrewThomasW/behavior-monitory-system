@@ -51,4 +51,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Live Demo
 
-Checkout live demo on Vercel [Educational Resource Recommender Chatbot](https://special-education-resource-recommender-chatbot.vercel.app) 
+Checkout live demo on Vercel [Behavior Monitoring System](https://behavior-monitory-system.vercel.app) 
